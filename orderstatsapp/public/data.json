@@ -1,0 +1,36 @@
+{
+  "stats": [
+    {
+      "label": "Revenue",
+      "value": "$1.245",
+      "icon": "FaReceipt",
+      "arrow": "FaArrowDown",
+      "percentage": "10",
+      "bgColor": "#ffeb3b"
+    },
+    {
+      "label": "Orders",
+      "value": 312,
+      "icon": "FaShoppingCart",
+      "arrow": "FaArrowUp",
+      "percentage": "10",
+      "bgColor": "#8bc34a"
+    },
+    {
+      "label": "Dine in",
+      "value": 900,
+      "icon": "FaUtensils",
+      "arrow": "FaArrowDown",
+      "percentage": "10",
+      "bgColor": "#03a9f4"
+    },
+    {
+      "label": "Take away",
+      "value": 333,
+      "icon": "FaBox",
+      "arrow": "FaArrowUp",
+      "percentage": "10",
+      "bgColor": "#ff5722"
+    }
+  ]
+}
